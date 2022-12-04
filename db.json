@@ -1,20 +1,265 @@
 {
     "products":[
+
+        
+            {
+                "id": "thapaserialnoa",
+                "name": "Lakshmi Chauki",
+                "company": "hues with vaishali",
+                "price": 3000,
+                "colors": [
+                "#ff0000",
+                "#000000",
+                "#CDD0D0"
+                ],
+                "image": "https://i.postimg.cc/4N0D0VrB/IMG-7614.jpg",
+                "description": " Aipan is a traditional folk art specially made by women of Uttarakhand. This art is done on special occasions, household ceremonies and rituals over brick red background (geru) with white paste made out of rice flour. It is believed that these motifs evoke divine power which brings good fortune and wards off evil. It is used to decorate floors and walls at the Puja room and entrance of home, Geru on Canvas",
+                 "size": "14 inch round canvas",
+                "category": "Wall Decor",
+                "shipping": true
+        },
+
         {
-        "id": "thapaserialnoa",
-        "name": "iphone x",
-        "company": "apple",
-        "price": 6000000,
-        "colors": [
-        "#ff0000",
-        "#000000",
-        "#CDD0D0"
-        ],
-        "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
-        "category": "mobile",
-        "featured": true
+            "id": "thapaserialnoa",
+            "name": "Blue Lines",
+            "company": "hues with vaishali",
+            "price": 999,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/7Y6rP7jr/IMG-7130-Original.jpg",
+            "description": " The perfect wooden Blue line coasters showcase the intricate work of fine lines done with blue color on a white background, they are further varnished to give the perfect shine. They come ina set of 4",
+            "category": "mobile",
+            "shipping": true
+        },
+            {
+            "id": "thapaserialnoa",
+            "name": "Shiv Peeth",
+            "company": "hues with vaishali",
+            "price": 7000,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/2Ssf1hGV/IMG-7750.jpg",
+            "description": "Aipan is a traditional folk art specially made by women of Uttarakhand. This art is done on special occasions, household ceremonies and rituals over brick red background (geru) with white paste made out of rice flour. It is believed that these motifs evoke divine power which brings good fortune and wards off evil. It is used to decorate floors and walls at the Puja room and entrance of home. Colours used here are an amalgamation of both contemporary and traditional art.Acrylics on Canvas",
+            "size":"30X20 inch canvas",
+            "category": "mobile",
+            "shipping": true
+        },
+            {
+            "id": "thapaserialnoa",
+            "name": "Aipan Coasters",
+            "company": "hues with vaishali",
+            "price": 999,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/Tw6XTsvt/7c532228-835f-4ab5-ad55-242c80cf0a39.jpg",
+            "description": " Aipan is a folk art of Uttarakhand and these coasters are inspired by the Aipan Art. The red wooden coasters are adorned with fine artwork with contrasting white color. They are perfectly varnished and come in a set of 6.",
+            "category": "Coaster",
+            "shipping": true
+        },
+            {
+            "id": "thapaserialnoa",
+            "name": "Road Of My Dreams",
+            "company": "hues with vaishali",
+            "price":3000,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/pdKMzrck/IMG-7746.jpg",
+            "description": " This art piece is done a Round Stretched Canvas depicting a scenic view that everyone wishes to experience one day. It’s done with Acrylics on canvas in size 14-inches Round Canvas",
+            "category": "Wall Decor",
+            "featured": true
+        },
+            
+           { 
+               "id": "thapaserialnoa",
+            "name": "Summer Punch ",
+            "company": "hues with vaishali",
+            "price":799,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/7ZjkW6s8/5-BF081-E8-942-C-4-A3-E-9-EC6-EFCAB287-F11-A.jpg",
+            "description": "As the name describes the perfect summer fruity coasters are perfect of your summer refreshing drinks. They come in set of 4",
+            "category": "coaster",
+            "shipping": true
+            },
+
+{
+            "id": "thapaserialnoa",
+            "name": "Beauty Of Ladakh",
+            "company": "hues with vaishali",
+            "price":3500,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/fLhtf3zb/IMG-9412.jpg",
+            "description": "Beauty of Ladakh ,This art piece is done a Round Stretched Canvas depicting the beauty of Ladakh through her Lens. It’s done Acrylics on canvas in size 12 inch round canvas.",
+            "category": "Wall Decor",
+            "shipping": true
+            },
+
+            {
+            "id": "thapaserialnoa",
+            "name": "The Himalayas",
+            "company": "hues with vaishali",
+            "price":2000,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/sx6ksh1f/Full-Size-Render.jpg",
+            "description": "The Himalayas Born and brought up in Uttarakhand I have been a big fan of the sheer beauty of its views, art and culture and this piece depicts the beauty of Uttarakhand, the Himalayas, done with Art Knife to attain that texture. Its done with Acrylics on Canvas in size 10 inch round Canvas",
+            "category": "Wall Decor",
+            "shipping": true
+            },
+
+           { 
+            "id": "thapaserialnoa",
+            "name": "Starry night in Mountains",
+            "company": "hues with vaishali",
+            "price": 2000,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/Qd93N0p2/IMG-7769.jpg",
+            "description": "Starry night in Mountains Born and brought up in Uttarakhand I have been a big fan of the sheer beauty of its views, art and culture and this piece depicts the beauty of Uttarakhand through my eyes.Acrylics on Canvas",
+            "size": "10 inch Square canvas",
+            "category": "wall decor",
+            "shipping": true
+            },
+            {
+            "id": "thapaserialnoa",
+            "name": "Be Kind Tote Bag",
+            "company": "hues with vaishali",
+            "price":699,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/LX3F5VH2/E575-B956-0-BF9-4909-BCE2-D1-B5-E472-F07-C.jpg",
+            "description": "the perfect cotton tote bag to spice up your boring outfits with text ‘Be Kind’ Handpainted on it.",
+            "category": "Tote Bag",
+            "featured":true
+            },
+
+            {
+                "id": "thapaserialnoa",
+            "name": "Starry Night",
+            "company": "hues with vaishali",
+            "price":699,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/T1k8qYLs/74-CE47-B3-DEB6-4586-B23-B-1920-D8-BCE354.jpg",
+            "description": " the perfect cotton tote bag to spice up your boring outfits with the famous Starry Night painting of Van Gogh Handpainted on it.",
+            "category": "Tote Bag",
+            "shipping": true
+            },
+
+            {"id": "thapaserialnoa",
+            "name": "Love",
+            "company": "hues with vaishali",
+            "price":699,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/TPm6M6Fy/ABFB6400-E34-D-4486-994-E-B0-ADF4419-B1-E.jpg",
+            "description": " the perfect cotton tote bag to spice up your boring outfits with recurring brown hearts painted on it.",
+            "category": "Tote bag",
+            "shipping": true
+            },
+
+
+           { 
+               "id": "thapaserialnoa",
+            "name": "Believe",
+            "company": "hues with vaishali",
+            "price":150,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/y6nzznQT/IMG-20200729-202519-860-Original.jpg",
+            "description": " The hand painted watercolour Bookmark made with 300gsm watercolour sheet has different leaf patterns with text believe in centre.",
+            "category": "Bookmark",
+            "featured": true
+            },
+
+
+           { 
+               "id": "thapaserialnoa",
+            "name": "Bloom",
+            "company": "hues with vaishali",
+            "price":150,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/nrVbDQz7/IMG20200901190838-Original.jpg",
+            "description": " The hand painted watercolour Bookmark made with 300gsm watercolour sheet has watercolour flowers painted at the bottom depicting bloom.",
+            "category": "Bookmark",
+            "shipping": true
+            },
+
+            {
+            "id": "thapaserialnoa",
+            "name": "World Of Flowers",
+            "company": "hues with vaishali",
+            "price":8000 ,
+            "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+            ],
+            "image": "https://i.postimg.cc/5NtJTxjN/a0201b72-88d3-4e29-b428-c73874323382.jpg",
+            "description": "The Floral Abstract Art done with Acrylics on canvas is an imaginative abstract form of different flowers combined together under one roof. It is sized at 20X 30 inch rectangular canvas.",
+            "category": "Wall decor",
+            "shipping": true
         }
-       
-        ]
-}
+            
+
+    ]
+    
+    }
+
+
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
