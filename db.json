@@ -3,7 +3,7 @@
 
         
             {
-                "id": "thapaserialnoa",
+                "id": "vaishali1",
                 "name": "Lakshmi Chauki",
                 "company": "hues with vaishali",
                 "price": 3000,
@@ -20,7 +20,7 @@
         },
 
         {
-            "id": "thapaserialnoa",
+            "id": "vaishali2",
             "name": "Blue Lines",
             "company": "hues with vaishali",
             "price": 999,
@@ -31,11 +31,11 @@
             ],
             "image": "https://i.postimg.cc/7Y6rP7jr/IMG-7130-Original.jpg",
             "description": " The perfect wooden Blue line coasters showcase the intricate work of fine lines done with blue color on a white background, they are further varnished to give the perfect shine. They come ina set of 4",
-            "category": "mobile",
+            "category": "coaster",
             "shipping": true
         },
             {
-            "id": "thapaserialnoa",
+            "id": "vaishali3",
             "name": "Shiv Peeth",
             "company": "hues with vaishali",
             "price": 7000,
@@ -47,11 +47,11 @@
             "image": "https://i.postimg.cc/2Ssf1hGV/IMG-7750.jpg",
             "description": "Aipan is a traditional folk art specially made by women of Uttarakhand. This art is done on special occasions, household ceremonies and rituals over brick red background (geru) with white paste made out of rice flour. It is believed that these motifs evoke divine power which brings good fortune and wards off evil. It is used to decorate floors and walls at the Puja room and entrance of home. Colours used here are an amalgamation of both contemporary and traditional art.Acrylics on Canvas",
             "size":"30X20 inch canvas",
-            "category": "mobile",
+            "category": "Wall Decor",
             "shipping": true
         },
             {
-            "id": "thapaserialnoa",
+            "id": "vaishali4",
             "name": "Aipan Coasters",
             "company": "hues with vaishali",
             "price": 999,
@@ -66,7 +66,7 @@
             "shipping": true
         },
             {
-            "id": "thapaserialnoa",
+            "id": "vaishali5",
             "name": "Road Of My Dreams",
             "company": "hues with vaishali",
             "price":3000,
@@ -82,7 +82,7 @@
         },
             
            { 
-               "id": "thapaserialnoa",
+               "id": "vaishali6",
             "name": "Summer Punch ",
             "company": "hues with vaishali",
             "price":799,
@@ -98,7 +98,7 @@
             },
 
 {
-            "id": "thapaserialnoa",
+            "id": "vaishali7",
             "name": "Beauty Of Ladakh",
             "company": "hues with vaishali",
             "price":3500,
@@ -114,7 +114,7 @@
             },
 
             {
-            "id": "thapaserialnoa",
+            "id": "vaishali8",
             "name": "The Himalayas",
             "company": "hues with vaishali",
             "price":2000,
@@ -130,7 +130,7 @@
             },
 
            { 
-            "id": "thapaserialnoa",
+            "id": "vaishali9",
             "name": "Starry night in Mountains",
             "company": "hues with vaishali",
             "price": 2000,
@@ -146,7 +146,7 @@
             "shipping": true
             },
             {
-            "id": "thapaserialnoa",
+            "id": "vaishali10",
             "name": "Be Kind Tote Bag",
             "company": "hues with vaishali",
             "price":699,
@@ -162,7 +162,7 @@
             },
 
             {
-                "id": "thapaserialnoa",
+                "id": "vaishali11",
             "name": "Starry Night",
             "company": "hues with vaishali",
             "price":699,
@@ -177,7 +177,7 @@
             "shipping": true
             },
 
-            {"id": "thapaserialnoa",
+            {"id": "vaishali12",
             "name": "Love",
             "company": "hues with vaishali",
             "price":699,
@@ -194,7 +194,7 @@
 
 
            { 
-               "id": "thapaserialnoa",
+               "id": "vaishali13",
             "name": "Believe",
             "company": "hues with vaishali",
             "price":150,
@@ -211,7 +211,7 @@
 
 
            { 
-               "id": "thapaserialnoa",
+               "id": "vaishali14",
             "name": "Bloom",
             "company": "hues with vaishali",
             "price":150,
@@ -227,7 +227,7 @@
             },
 
             {
-            "id": "thapaserialnoa",
+            "id": "vaishali15",
             "name": "World Of Flowers",
             "company": "hues with vaishali",
             "price":8000 ,
